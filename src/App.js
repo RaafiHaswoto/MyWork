@@ -51,7 +51,7 @@ class App extends Component {
         <p>
           Follow the Following Steps:
           <br />
-          1. Click website https://elastic-johnson-911bdc.netlify.com/ 
+          1. Click website https://thesecondnumber.netlify.com/
           <br />
           2. You put your Integer(s)
           <br />
