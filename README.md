@@ -2,7 +2,7 @@
 
 Follow the Following Steps:<br/>
 
-1. Click website https://elastic-johnson-911bdc.netlify.com/
+1. Click website https://thesecondnumber.netlify.com/
 2. You put your Integer(s)<br/>
 3. For example:<br />
    a. write number 3 and click Add<br />
